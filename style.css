@@ -1,0 +1,21 @@
+.titre {
+margin-left: 100px;
+margin-right: auto;
+ }
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.edito {
+  margin-left: 280px;
+  margin-top: -70px;
+}
+.centre {
+  margin-left: 280px;
+  margin-top: auto;
+}
+html { scroll-behavior: smooth; }
